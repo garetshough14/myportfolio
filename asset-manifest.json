@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apprentice-portfolio/static/css/main.c6874876.css",
+    "main.js": "/apprentice-portfolio/static/js/main.945dd13c.js",
+    "static/js/787.652ed6a6.chunk.js": "/apprentice-portfolio/static/js/787.652ed6a6.chunk.js",
+    "index.html": "/apprentice-portfolio/index.html",
+    "main.c6874876.css.map": "/apprentice-portfolio/static/css/main.c6874876.css.map",
+    "main.945dd13c.js.map": "/apprentice-portfolio/static/js/main.945dd13c.js.map",
+    "787.652ed6a6.chunk.js.map": "/apprentice-portfolio/static/js/787.652ed6a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6874876.css",
+    "static/js/main.945dd13c.js"
+  ]
+}
